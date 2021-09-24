@@ -1,0 +1,10 @@
+[2021-02-17 10:09:33] production.INFO: 2::Dinesh::43.248.71.192===>App\Http\Controllers\HomeController::dashboard Line No 267
+  
+[2021-02-17 10:09:35] production.INFO: 2::Dinesh::43.248.71.192===>App\Http\Controllers\HomeController::my_profile Line No 916
+  
+[2021-02-17 10:09:39] production.INFO: 2::Dinesh::43.248.71.192===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2021-02-17 10:09:56] production.INFO: 2::Dinesh::43.248.71.192===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-02-17 10:09:59] production.INFO: 2::Dinesh::43.248.71.192===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  

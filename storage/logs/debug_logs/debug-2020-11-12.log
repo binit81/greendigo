@@ -1,0 +1,572 @@
+[2020-11-12 12:48:59] production.INFO: 2::Dinesh::43.248.71.187===>App\Http\Controllers\HomeController::dashboard Line No 267
+  
+[2020-11-12 12:49:03] production.INFO: 2::Dinesh::43.248.71.187===>App\Http\Controllers\HomeController::my_profile Line No 916
+  
+[2020-11-12 12:49:14] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 12:49:29] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 12:49:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 12:49:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 12:49:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:49:44] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:49:45] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:49:46] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:49:49] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:49:50] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:49:51] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:49:52] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:49:53] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:49:53] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:52:53] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 12:52:53] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 12:53:28] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 12:53:29] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 12:53:34] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 12:53:49] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 12:54:03] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 12:54:17] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 12:54:18] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 12:54:19] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:54:19] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:54:19] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:54:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:54:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:54:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:54:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:54:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:54:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:54:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:55:14] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 12:55:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 12:55:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 12:55:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 12:55:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 12:55:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 12:55:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:55:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:55:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:55:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:55:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:55:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:55:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:55:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:55:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:55:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:56:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 12:56:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 12:56:44] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 12:56:55] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 12:56:57] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 12:56:58] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 12:56:59] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:56:59] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:56:59] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:56:59] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:57:00] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:57:00] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:57:00] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:57:01] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:57:01] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:57:01] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:58:05] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 12:58:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 12:58:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 12:58:54] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 12:58:59] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 12:59:00] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 12:59:00] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:59:01] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:59:01] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:59:02] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:59:03] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:59:03] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:59:03] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:59:04] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:59:04] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 12:59:04] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 12:59:39] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 12:59:49] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 12:59:50] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 13:00:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 13:00:25] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 13:00:25] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 13:00:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:00:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:00:27] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:00:28] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:00:29] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:00:29] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:00:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:00:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:00:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:00:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:00:49] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 13:00:54] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 13:00:55] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 13:01:05] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 13:01:16] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 13:01:16] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 13:01:16] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:01:17] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:01:17] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:01:18] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:01:19] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:01:19] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:01:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:01:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:01:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:01:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:01:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 13:01:48] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 13:01:48] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 13:02:00] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 13:02:06] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 13:02:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 13:02:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:02:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:02:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:02:08] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:02:09] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:02:09] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:02:09] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:02:09] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:02:10] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:02:10] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:02:51] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 13:02:58] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 13:02:59] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 13:03:04] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 13:03:24] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 13:03:27] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 13:03:28] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 13:03:29] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:03:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:03:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:03:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:03:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:03:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:03:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:03:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:03:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:03:33] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:04:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 13:04:15] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 13:04:15] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 13:04:25] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 13:04:29] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 13:04:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 13:04:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:04:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:04:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:04:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:04:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:04:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:04:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:04:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 13:04:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 13:04:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:52:28] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 14:52:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 14:52:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 14:53:34] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 14:53:38] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 14:53:38] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 14:53:38] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:53:39] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:53:39] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:53:39] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:53:39] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:53:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:53:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:53:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:53:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:53:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:54:50] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 14:55:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 14:55:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 14:55:37] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 14:55:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 14:55:40] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 14:55:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:55:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:55:41] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:55:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:55:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:55:42] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:55:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:55:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:55:43] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:55:44] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:56:12] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 14:56:17] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 14:56:17] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 14:56:27] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 14:56:35] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 14:56:36] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 14:56:36] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:56:37] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:56:37] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:56:37] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:56:37] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:56:38] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:56:38] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:56:38] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:56:38] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:56:39] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:56:52] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 14:56:57] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 14:56:57] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 14:57:22] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 14:57:25] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 14:57:25] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 14:57:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:57:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:57:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:57:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:57:27] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:57:27] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:57:27] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:57:27] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:57:28] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:57:28] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:57:39] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 14:57:48] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 14:57:49] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 14:58:00] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 14:58:06] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 14:58:06] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 14:58:06] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:58:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:58:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:58:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:58:07] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:58:08] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:58:08] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:58:08] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:58:08] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:58:09] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:59:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 14:59:20] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 14:59:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:59:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:59:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:59:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:59:22] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:59:22] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:59:22] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:59:23] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:59:23] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 14:59:23] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 14:59:48] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::editTemplate Line No 67
+  
+[2020-11-12 14:59:56] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::edit_template_save Line No 246
+  
+[2020-11-12 14:59:57] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2020-11-12 15:00:08] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 15:00:21] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_search Line No 97
+  
+[2020-11-12 15:00:26] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2020-11-12 15:00:29] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 15:00:29] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 15:00:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:30] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:31] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:32] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:55] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2020-11-12 15:00:56] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2020-11-12 15:00:56] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:57] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:57] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:57] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:58] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:58] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:58] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:58] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2020-11-12 15:00:59] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2020-11-12 15:00:59] production.INFO: 2::Dinesh::43.248.71.187===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  

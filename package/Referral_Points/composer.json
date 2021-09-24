@@ -1,0 +1,14 @@
+{
+    "name": "Retailcore/Referral_Points",
+    "description": "send email",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    "psr-4":{
+        "Retailcore\\Referral_Points\\":"src/"
+        }
+    }
+
+}

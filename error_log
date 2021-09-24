@@ -1,0 +1,61 @@
+[07-Jan-2020 17:54:27 Asia/Kolkata] PHP Warning:  Uncaught ErrorException: require(/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php): failed to open stream: No such file or directory in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/r...', '/home/retailcor...', 35, Array)
+#1 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/retailcor...')
+#3 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/retailcor...')
+#4 /home/retai in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 17:54:27 Asia/Kolkata] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 12:27:35 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[07-Jan-2020 12:30:33 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[07-Jan-2020 12:38:13 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[07-Jan-2020 12:39:23 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[07-Jan-2020 18:10:57 Asia/Kolkata] PHP Warning:  Uncaught ErrorException: require(/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php): failed to open stream: No such file or directory in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/r...', '/home/retailcor...', 35, Array)
+#1 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/retailcor...')
+#3 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/retailcor...')
+#4 /home/retai in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:10:57 Asia/Kolkata] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:11:29 Asia/Kolkata] PHP Warning:  Uncaught ErrorException: require(/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php): failed to open stream: No such file or directory in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/r...', '/home/retailcor...', 35, Array)
+#1 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/retailcor...')
+#3 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/retailcor...')
+#4 /home/retai in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:11:29 Asia/Kolkata] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:11:31 Asia/Kolkata] PHP Warning:  Uncaught ErrorException: require(/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php): failed to open stream: No such file or directory in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/r...', '/home/retailcor...', 35, Array)
+#1 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/retailcor...')
+#3 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/retailcor...')
+#4 /home/retai in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:11:31 Asia/Kolkata] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:12:42 Asia/Kolkata] PHP Warning:  Uncaught ErrorException: require(/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php): failed to open stream: No such file or directory in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/r...', '/home/retailcor...', 35, Array)
+#1 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/retailcor...')
+#3 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/retailcor...')
+#4 /home/retai in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:12:42 Asia/Kolkata] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:12:42 Asia/Kolkata] PHP Warning:  Uncaught ErrorException: require(/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php): failed to open stream: No such file or directory in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/r...', '/home/retailcor...', 35, Array)
+#1 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/retailcor...')
+#3 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/retailcor...')
+#4 /home/retai in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:12:42 Asia/Kolkata] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/retailcore/public_html/greendigo/package\Website_Software_Api\src\routes\web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:14:49 Asia/Kolkata] PHP Warning:  Uncaught ErrorException: require(/home/retailcore/public_html/greendigo/package/Website_Software_Api\src\routes\web.php): failed to open stream: No such file or directory in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/r...', '/home/retailcor...', 35, Array)
+#1 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/retailcor...')
+#3 /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/retailcor...')
+#4 /home/retai in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 18:14:49 Asia/Kolkata] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/retailcore/public_html/greendigo/package/Website_Software_Api\src\routes\web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/retailcore/public_html/greendigo/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[07-Jan-2020 12:46:10 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671

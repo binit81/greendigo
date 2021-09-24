@@ -1,0 +1,14 @@
+{
+  "name": "Retailcore/Loyalty_Setup",
+  "description": "send email",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload":{
+    "psr-4":{
+      "Retailcore\\Loyalty_Setup    \\":"src/"
+    }
+  }
+
+}

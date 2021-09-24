@@ -1,0 +1,108 @@
+[2021-01-12 11:41:20] production.INFO: 2::Dinesh::43.248.71.217===>App\Http\Controllers\HomeController::dashboard Line No 267
+  
+[2021-01-12 11:41:22] production.INFO: 2::Dinesh::43.248.71.217===>App\Http\Controllers\HomeController::my_profile Line No 916
+  
+[2021-01-12 11:41:43] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::garment_inward_stock_show Line No 63
+  
+[2021-01-12 11:41:53] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockExportController::inward_template Line No 51
+  
+[2021-01-12 12:36:22] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::index Line No 37
+  
+[2021-01-12 12:37:27] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::searchBarcodePrintProduct Line No 298
+  
+[2021-01-12 12:37:30] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::BarcodePrintingSticker Line No 194
+  
+[2021-01-12 12:37:31] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::fetchTemplateData Line No 785
+  
+[2021-01-12 12:37:31] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::barcode_product_detail Line No 684
+  
+[2021-01-12 12:37:32] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\BarcodePrinting\Http\Controllers\barcodeprinting\BarcodePrintingController::GenerateBarcode Line No 799
+  
+[2021-01-12 16:43:57] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2021-01-12 16:44:05] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 16:44:05] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 16:44:10] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2021-01-12 16:44:13] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2021-01-12 16:44:37] production.INFO: 2::Dinesh::43.248.71.217===>App\Http\Controllers\HomeController::dashboard Line No 267
+  
+[2021-01-12 16:44:44] production.INFO: 2::Dinesh::43.248.71.217===>App\Http\Controllers\HomeController::my_profile Line No 916
+  
+[2021-01-12 16:44:55] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2021-01-12 16:45:04] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 16:45:10] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2021-01-12 16:45:18] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2021-01-12 16:45:51] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::garment_inward_stock_show Line No 63
+  
+[2021-01-12 17:12:41] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2021-01-12 17:12:41] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2021-01-12 17:13:14] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 17:13:17] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2021-01-12 17:13:21] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2021-01-12 17:15:26] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_create Line No 420
+  
+[2021-01-12 17:15:27] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2021-01-12 17:15:27] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_data Line No 157
+  
+[2021-01-12 17:15:32] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 17:15:35] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2021-01-12 17:21:52] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 17:21:53] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 17:22:02] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 17:22:03] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 17:22:07] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 17:22:08] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2021-01-12 17:22:16] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2021-01-12 17:22:21] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2021-01-12 17:22:50] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_create Line No 420
+  
+[2021-01-12 17:22:51] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_data Line No 157
+  
+[2021-01-12 17:22:51] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2021-01-12 17:52:56] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2021-01-12 17:58:58] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::garment_inward_stock_show Line No 63
+  
+[2021-01-12 17:59:54] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::supplier_search Line No 245
+  
+[2021-01-12 17:59:54] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::supplier_search Line No 245
+  
+[2021-01-12 18:00:39] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::supplier_search Line No 245
+  
+[2021-01-12 18:00:39] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::supplier_search Line No 245
+  
+[2021-01-12 18:00:43] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::supplier_search Line No 245
+  
+[2021-01-12 18:00:43] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::supplier_search Line No 245
+  
+[2021-01-12 18:00:54] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Inward_Stock\Http\Controllers\inward\InwardStockController::supplier_search Line No 245
+  
+[2021-01-12 18:01:24] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Supplier\Http\Controllers\supplier\SupplierCompanyInfoController::index Line No 30
+  
+[2021-01-12 18:01:47] production.INFO: 2::Dinesh::43.248.71.217===>Retailcore\Supplier\Http\Controllers\supplier\SupplierCompanyInfoController::supplier_edit Line No 352
+  

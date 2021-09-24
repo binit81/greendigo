@@ -1,0 +1,1 @@
+tax_type=2,decimal_points=0,billtype=3,billprint_type=2,series_type=1,navigation_type=1,inward_type=1,inward_calculation=2,license=(::),installation=(::)

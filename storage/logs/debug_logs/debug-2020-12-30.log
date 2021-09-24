@@ -1,0 +1,30 @@
+[2020-12-30 10:59:42] production.INFO: 2::Dinesh::43.248.71.223===>App\Http\Controllers\HomeController::dashboard Line No 267
+  
+[2020-12-30 10:59:45] production.INFO: 2::Dinesh::43.248.71.223===>App\Http\Controllers\HomeController::my_profile Line No 916
+  
+[2020-12-30 10:59:50] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2020-12-30 11:00:30] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_barcode_search Line No 1686
+  
+[2020-12-30 11:00:36] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_barcode_search Line No 1686
+  
+[2020-12-30 11:00:37] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_barcode_search Line No 1686
+  
+[2020-12-30 11:00:39] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-30 11:00:56] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2020-12-30 11:00:56] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2020-12-30 11:01:01] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-30 11:04:20] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-30 11:04:23] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2020-12-30 11:04:42] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_export Line No 1599
+  
+[2020-12-30 11:24:23] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2020-12-30 11:24:26] production.INFO: 2::Dinesh::43.248.71.223===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  

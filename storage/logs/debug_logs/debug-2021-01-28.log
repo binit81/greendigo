@@ -1,0 +1,6 @@
+[2021-01-28 10:21:34] production.INFO: 2::Dinesh::43.248.71.194===>App\Http\Controllers\HomeController::dashboard Line No 267
+  
+[2021-01-28 10:21:36] production.INFO: 2::Dinesh::43.248.71.194===>App\Http\Controllers\HomeController::my_profile Line No 916
+  
+[2021-01-28 10:21:40] production.INFO: 2::Dinesh::43.248.71.194===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  

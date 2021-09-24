@@ -1,0 +1,14 @@
+{
+    "name": "Retailcore/Website_Software_Api",
+    "description": "send email",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    "psr-4":{
+        "Retailcore\\Website_Software_Api\\":"src/"
+        }
+    }
+
+}

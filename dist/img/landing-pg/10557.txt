@@ -1,0 +1,1 @@
+tax_type=1,decimal_points=0,billtype=1,billprint_type=2,series_type=1,navigation_type=1,inward_type=2,inward_calculation=1,license=1(2019-11-13:2020-11-13:10),installation=1(2019-11-13:2020-11-20:10),po_with_unique_barcode=0,unique_barcode_name=Box No,po_calculation=1

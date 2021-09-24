@@ -1,0 +1,68 @@
+[2020-12-08 09:53:38] production.INFO: 2::Dinesh::43.248.71.203===>App\Http\Controllers\HomeController::dashboard Line No 267
+  
+[2020-12-08 09:53:41] production.INFO: 2::Dinesh::43.248.71.203===>App\Http\Controllers\HomeController::my_profile Line No 916
+  
+[2020-12-08 15:53:09] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2020-12-08 15:53:32] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2020-12-08 15:53:36] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:53:39] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:54:07] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2020-12-08 15:54:09] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:54:16] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:55:46] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2020-12-08 15:56:21] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_create Line No 420
+  
+[2020-12-08 15:56:21] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_data Line No 157
+  
+[2020-12-08 15:56:21] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2020-12-08 15:56:28] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2020-12-08 15:56:31] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:56:35] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:56:46] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2020-12-08 15:57:10] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_create Line No 420
+  
+[2020-12-08 15:57:10] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_data Line No 157
+  
+[2020-12-08 15:57:10] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2020-12-08 15:57:19] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2020-12-08 15:57:21] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:57:34] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:57:39] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2020-12-08 15:57:49] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_create Line No 420
+  
+[2020-12-08 15:57:49] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_data Line No 157
+  
+[2020-12-08 15:57:49] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
+[2020-12-08 15:57:58] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_name_search Line No 1618
+  
+[2020-12-08 15:58:01] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:58:06] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_fetch_data Line No 268
+  
+[2020-12-08 15:58:11] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_edit Line No 650
+  
+[2020-12-08 15:58:19] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_create Line No 420
+  
+[2020-12-08 15:58:19] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::product_data Line No 157
+  
+[2020-12-08 15:58:19] production.INFO: 2::Dinesh::43.248.71.203===>Retailcore\Products\Http\Controllers\product\ProductController::index Line No 54
+  
